@@ -2,7 +2,7 @@
 
 **`Estudante de Tecnologia`**
 
-Olá! Eu sou **Murilo Fenille**, estudante do Ensino Médio e apaixonado por tecnologia, programação, eletrônica e engenharia.
+Olá! Eu sou **Murilo Fenille**, estudante do Ensino Médio e apaixonado por tecnologia, programação e eletrônica.
 
 Gosto de aprender colocando as ideias em prática e, por isso, venho desenvolvendo meus próprios projetos para experimentar tecnologias, resolver problemas e entender melhor como o software funciona.
 
