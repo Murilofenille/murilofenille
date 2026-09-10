@@ -56,21 +56,6 @@ Experimentos utilizando Arduino, sensores, LEDs, relés e outros componentes ele
 
 ---
 
-### 📊 GitHub
-
-<p align="left">
-  <img
-    height="180"
-    src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
-  />
-  <img
-    height="180"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&theme=tokyonight&layout=compact&langs_count=6&locale=pt-br"
-  />
-</p>
-
----
-
 ### 📫 Contato
 
 <p align="left">
